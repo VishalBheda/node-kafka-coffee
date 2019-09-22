@@ -1,0 +1,24 @@
+{
+  "name": "node-kafka-coffee",
+  "version": "0.0.1",
+  "description": "Apache Kafka Interaction With NodeJS'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VishalBheda/node-kafka-coffee.git"
+  },
+  "keywords": [
+    "Apache",
+    "Kafka",
+    "Nodejs"
+  ],
+  "author": "Vb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VishalBheda/node-kafka-coffee/issues"
+  },
+  "homepage": "https://github.com/VishalBheda/node-kafka-coffee#readme"
+}
